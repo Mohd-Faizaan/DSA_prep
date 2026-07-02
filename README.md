@@ -7,4 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0009-palindrome-number) |
+| [0282-expression-add-operators](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0282-expression-add-operators) |
+## String
+|  |
+| ------- |
+| [0282-expression-add-operators](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0282-expression-add-operators) |
+## Backtracking
+|  |
+| ------- |
+| [0282-expression-add-operators](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0282-expression-add-operators) |
 <!---LeetCode Topics End-->
