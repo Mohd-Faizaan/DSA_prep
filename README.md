@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0125-valid-palindrome) |
 | [0282-expression-add-operators](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0282-expression-add-operators) |
 ## Backtracking
 |  |
@@ -31,4 +32,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
