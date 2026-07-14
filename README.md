@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0242-valid-anagram) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0027-remove-element) |
+| [0049-group-anagrams](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0189-rotate-array) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0242-valid-anagram) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -70,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
