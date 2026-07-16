@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0283-move-zeroes) |
 | [0867-transpose-matrix](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0867-transpose-matrix) |
+| [1089-duplicate-zeros](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/1089-duplicate-zeros) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0283-move-zeroes) |
+| [1089-duplicate-zeros](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/1089-duplicate-zeros) |
 ## Greedy
 |  |
 | ------- |
