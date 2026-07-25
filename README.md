@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0242-valid-anagram) |
 | [0282-expression-add-operators](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0290-word-pattern) |
+| [2942-find-words-containing-character](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/2942-find-words-containing-character) |
 ## Backtracking
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0867-transpose-matrix) |
 | [1089-duplicate-zeros](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/1089-duplicate-zeros) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2942-find-words-containing-character](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/2942-find-words-containing-character) |
 ## Two Pointers
 |  |
 | ------- |
