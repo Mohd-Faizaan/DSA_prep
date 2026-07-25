@@ -3,7 +3,7 @@ public:
     int searchInsert(vector<int>& nums, int target) {
         int left = 0;
         int right = nums.size() - 1;
-
+// used binary search in it
         while (left <= right) {
             int mid = left + (right - left) / 2;
 
