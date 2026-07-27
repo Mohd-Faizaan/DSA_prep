@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0383-ransom-note) |
+| [0520-detect-capital](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0520-detect-capital) |
 | [2942-find-words-containing-character](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/2942-find-words-containing-character) |
 ## Backtracking
 |  |
