@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0242-valid-anagram) |
 | [0282-expression-add-operators](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0383-ransom-note) |
 | [2942-find-words-containing-character](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/2942-find-words-containing-character) |
 ## Backtracking
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sliding Window
@@ -162,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0067-add-binary) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
