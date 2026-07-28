@@ -10,5 +10,4 @@ public:
         }
         return t[s.size()];
     }
-//please upvote...
 };
