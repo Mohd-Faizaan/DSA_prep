@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0144-binary-tree-preorder-traversal) |
 ## String Matching
 |  |
 | ------- |
@@ -173,4 +174,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0383-ransom-note) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
