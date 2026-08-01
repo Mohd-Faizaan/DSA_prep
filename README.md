@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/1929-concatenation-of-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2942-find-words-containing-character](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/2942-find-words-containing-character) |
+| [3668-restore-finishing-order](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/3668-restore-finishing-order) |
 | [3925-concatenate-array-with-reverse](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3668-restore-finishing-order](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/3668-restore-finishing-order) |
 ## Sliding Window
 |  |
 | ------- |
