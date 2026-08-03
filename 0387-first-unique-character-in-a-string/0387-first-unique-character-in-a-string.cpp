@@ -3,17 +3,10 @@ public:
     int firstUniqChar(string s) {
     unordered_map<char,int> us;
     for ( char c : s)
-    {
-        us[c]++;
-    }
+    {us[c]++;}
 
     for (int i = 0 ; i< s.length() ; i++)
-    {
-        if(us[s[i]] == 1)
-        {
-            return i;
-        }
-    }
+    {if(us[s[i]] == 1){return i;}}
 
     return -1;
     }
