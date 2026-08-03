@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0389-find-the-difference) |
 | [0520-detect-capital](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0520-detect-capital) |
+| [2678-number-of-senior-citizens](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/2678-number-of-senior-citizens) |
 | [2942-find-words-containing-character](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/2942-find-words-containing-character) |
 ## Backtracking
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/1089-duplicate-zeros) |
 | [1929-concatenation-of-array](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/1929-concatenation-of-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2678-number-of-senior-citizens](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/2678-number-of-senior-citizens) |
 | [2942-find-words-containing-character](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/2942-find-words-containing-character) |
 | [3668-restore-finishing-order](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/3668-restore-finishing-order) |
 | [3925-concatenate-array-with-reverse](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/3925-concatenate-array-with-reverse) |
