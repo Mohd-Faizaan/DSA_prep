@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0164-maximum-gap](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0164-maximum-gap) |
 | [0189-rotate-array](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0217-contains-duplicate) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0088-merge-sorted-array) |
+| [0164-maximum-gap](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0349-intersection-of-two-arrays) |
@@ -236,4 +238,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0005-longest-palindromic-substring) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
