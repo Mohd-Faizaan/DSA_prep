@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0867-transpose-matrix](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0867-transpose-matrix) |
+| [1051-height-checker](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/1089-duplicate-zeros) |
 | [1929-concatenation-of-array](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/1929-concatenation-of-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0389-find-the-difference) |
+| [1051-height-checker](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/1051-height-checker) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -257,4 +259,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0164-maximum-gap) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
