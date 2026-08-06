@@ -6,7 +6,7 @@ public:
         long min = nums1[0];
         long max = nums1[nums1.size()-1];
 
-       long long diff = max-min;
+        long long diff = max-min;
         long long v = diff * k;
         return v;
     }
