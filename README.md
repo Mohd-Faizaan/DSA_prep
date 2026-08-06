@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0389-find-the-difference) |
 | [0520-detect-capital](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0520-detect-capital) |
+| [0917-reverse-only-letters](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0917-reverse-only-letters) |
 | [2678-number-of-senior-citizens](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/2678-number-of-senior-citizens) |
 | [2942-find-words-containing-character](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/2942-find-words-containing-character) |
 ## Backtracking
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0917-reverse-only-letters](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0917-reverse-only-letters) |
 | [1089-duplicate-zeros](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/1089-duplicate-zeros) |
 ## Greedy
 |  |
