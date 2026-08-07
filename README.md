@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0046-permutations) |
 | [0282-expression-add-operators](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0282-expression-add-operators) |
+| [0494-target-sum](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0494-target-sum) |
 ## Database
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0494-target-sum](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0494-target-sum) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0867-transpose-matrix](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0867-transpose-matrix) |
 | [1051-height-checker](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/1051-height-checker) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0494-target-sum](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0494-target-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -273,4 +276,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/1051-height-checker) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
