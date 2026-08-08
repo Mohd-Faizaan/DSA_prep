@@ -4,13 +4,13 @@ public:
 
         unordered_set<string> st;
         
-        // Store all source cities
+        // storing all source cities
         for (auto &path : paths)
         {
             st.insert(path[0]);
         }
 
-        // Find the city that is never a source
+        // find the city that is never a source
         for (auto &path : paths)
         {
             if (st.find(path[1]) == st.end())
