@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/1089-duplicate-zeros) |
 | [1436-destination-city](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/1436-destination-city) |
+| [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [1929-concatenation-of-array](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/1929-concatenation-of-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2678-number-of-senior-citizens](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/2678-number-of-senior-citizens) |
