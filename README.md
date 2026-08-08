@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/1436-destination-city) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [1929-concatenation-of-array](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/1929-concatenation-of-array) |
+| [2248-intersection-of-multiple-arrays](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/2248-intersection-of-multiple-arrays) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2678-number-of-senior-citizens](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/2678-number-of-senior-citizens) |
 | [2942-find-words-containing-character](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/2942-find-words-containing-character) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1436-destination-city](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/1436-destination-city) |
+| [2248-intersection-of-multiple-arrays](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/2248-intersection-of-multiple-arrays) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3668-restore-finishing-order](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/3668-restore-finishing-order) |
 ## Sliding Window
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0389-find-the-difference) |
 | [1051-height-checker](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/1051-height-checker) |
+| [2248-intersection-of-multiple-arrays](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/2248-intersection-of-multiple-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0387-first-unique-character-in-a-string) |
+| [2248-intersection-of-multiple-arrays](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/2248-intersection-of-multiple-arrays) |
 ## Tree
 |  |
 | ------- |
