@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0389-find-the-difference) |
 | [0520-detect-capital](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0520-detect-capital) |
 | [0917-reverse-only-letters](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0917-reverse-only-letters) |
+| [1436-destination-city](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/1436-destination-city) |
 | [2678-number-of-senior-citizens](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/2678-number-of-senior-citizens) |
 | [2942-find-words-containing-character](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/2942-find-words-containing-character) |
 ## Backtracking
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0867-transpose-matrix) |
 | [1051-height-checker](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/1089-duplicate-zeros) |
+| [1436-destination-city](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/1436-destination-city) |
 | [1929-concatenation-of-array](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/1929-concatenation-of-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2678-number-of-senior-citizens](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/2678-number-of-senior-citizens) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1436-destination-city](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/1436-destination-city) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3668-restore-finishing-order](https://github.com/Mohd-Faizaan/DSA_prep/tree/master/3668-restore-finishing-order) |
 ## Sliding Window
